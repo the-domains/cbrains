@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://thebrain.mcgill.ca/favicon.ico'
   domain: thebrain.mcgill.ca
 keywords:
-  - neurons
-  - circuit
-  - neural
-  - words
-  - cortex
-  - synapses
-  - brain
-  - nerve
-  - memories
-  - connections
-description: '"I have it at the tip of my tongue!" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons (nerve cells) of the brain can be compared with the paths through a forest.'
+  - receptor
+  - ions
+  - ltp
+  - post-synaptic
+  - long-term
+  - neuron
+  - glutamate
+  - depolarized
+  - neuromodulators
+  - channel
+description: 'Long-term depression ( LTD) is a phenomenon that is the opposite of long-term potentiation (LTP). In LTD, communication across the synapse is silenced. LTD plays an important role in the cerebellum, in implicit procedural memory, where the neural networks involved in erroneous movements are inhibited by the silencing of their synaptic connections.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra.html'
+isBasedOnUrl: 'http://thebrain.mcgill.ca/flash/i/i_07/i_07_m/i_07_m_tra/i_07_m_tra.html'
 title: THE BRAIN FROM TOP TO BOTTOM
-datePublished: '2015-12-06T21:18:15.828Z'
-dateModified: '2015-12-06T21:12:29.476Z'
+datePublished: '2015-12-06T21:23:26.887Z'
+dateModified: '2015-12-06T21:21:50.784Z'
 sourcePath: _posts/2015-12-06-the-brain-from-top-to-bottom.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>"I have it at the tip of my tongue&amp;excl;" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons &amp;lpar;nerve cells&amp;rpar; of the brain can be compared with the paths through a forest&amp;period;</p><img src="http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra_1a.gif" /></article>
+<article style=""><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>Long-term depression &amp;lpar; LTD&amp;rpar; is a phenomenon that is the opposite of long-term potentiation &amp;lpar;LTP&amp;rpar;&amp;period; In LTD&amp;comma; communication across the synapse is silenced&amp;period; LTD plays an important role in the cerebellum&amp;comma; in implicit procedural memory&amp;comma; where the neural networks involved in erroneous movements are inhibited by the silencing of their synaptic connections&amp;period;</p><img src="http://thebrain.mcgill.ca/flash/i/i_07/i_07_m/i_07_m_tra/i_07_m_tra.jpg" /></article>
