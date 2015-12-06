@@ -1,0 +1,28 @@
+name: cbrains
+favicon: null
+layout_spectrum: 0.8876027294900268
+typography_spectrum: 0.918842145241797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1834084049332887
+  lightness: 0.44007928343489766
+  saturation: 0.6098690463695675
+  rhythmicContrast: 0.1544457117561251
+purpose: []
