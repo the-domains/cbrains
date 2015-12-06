@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://thebrain.mcgill.ca/favicon.ico'
   domain: thebrain.mcgill.ca
 keywords:
-  - membrane
-  - ions
-  - impulse
-  - neuron
-  - charged
+  - neurons
+  - circuit
   - neural
+  - words
+  - cortex
+  - synapses
+  - brain
   - nerve
-  - electrical
-  - resting
-  - molecules
-description: "At the origin of every thought or action, there are the nerve impulses that travel through the body's neurons. These impulses are nothing more than the movement of electrically charged inorganic molecules through the neural membrane."
+  - memories
+  - connections
+description: '"I have it at the tip of my tongue!" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons (nerve cells) of the brain can be compared with the paths through a forest.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://thebrain.mcgill.ca/flash/i/i_01/i_01_m/i_01_m_fon/i_01_m_fon.html'
+isBasedOnUrl: 'http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra.html'
 title: THE BRAIN FROM TOP TO BOTTOM
-datePublished: '2015-12-06T21:18:15.747Z'
-dateModified: '2015-12-06T21:13:58.759Z'
+datePublished: '2015-12-06T21:18:15.828Z'
+dateModified: '2015-12-06T21:12:29.476Z'
 sourcePath: _posts/2015-12-06-the-brain-from-top-to-bottom.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>At the origin of every thought or action&amp;comma; there are the nerve impulses that travel through the body's neurons&amp;period; These impulses are nothing more than the movement of electrically charged inorganic molecules through the neural membrane&amp;period;</p><img src="http://thebrain.mcgill.ca/flash/i/i_01/i_01_m/i_01_m_fon/i_01_m_fon.jpg" /></article>
+<article style=""><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>"I have it at the tip of my tongue&amp;excl;" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons &amp;lpar;nerve cells&amp;rpar; of the brain can be compared with the paths through a forest&amp;period;</p><img src="http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra_1a.gif" /></article>
