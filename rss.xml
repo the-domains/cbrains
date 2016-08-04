@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cbrains]]></title>
-        <description><![CDATA[cbrains]]></description>
+        <title><![CDATA[cbrains2]]></title>
+        <description><![CDATA[cbrains2]]></description>
         <link>https://thegrid.ai/cbrains/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 21:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 18:39:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cbrains/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[THE BRAIN FROM TOP TO BOTTOM]]></title>
-            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>Long-term depression ( LTD) is a phenomenon that is the opposite of long-term potentiation (LTP). In LTD, communication across the synapse is silenced. LTD plays an important role in the cerebellum, in implicit procedural memory, where the neural networks involved in erroneous movements are inhibited by the silencing of their synaptic connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b065b30cd27a8bde03c45ce251d3060e148694.jpg"></article>]]></description>
-            <link>http://thebrain.mcgill.ca/flash/i/i_07/i_07_m/i_07_m_tra/i_07_m_tra.html</link>
-            <guid isPermaLink="false">0ce88fb0-2238-4abd-ac6a-59b94f970019</guid>
-            <pubDate>Sun, 06 Dec 2015 21:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>LONG-TERM POTENTIATION    Even though the neurons of the hippocampus may seem like just a transit point in the establishment of long-term memory, they actually display a great deal of plasticity. This plasticity is manifested chiefly through the phenomenon of long-term potentiation (LTP), which was discovered in the hippocampus in 1973 but has subsequently been demonstrated in many regions of the cortex. The most interesting characteristic of LTP is that it can cause the long-term strengthening of the synapses between two neurons that are activated simultaneously. In other words, exactly the kind of association mechanism that Hebb had imagined 25 years earlier.  What happens is that when the axons that make connections to the pyramidal neurons of the hippocampus are exposed to a high-frequency stimulus, the amplitude of the excitatory potential measured in these neurons is increased for a long period (up to several weeks).  Glutamate, the neurotransmitter released into these synapses, binds to several different sub-types of receptors on the post-synaptic neuron. Two of these sub-types, the receptors for AMPA and NMDA, are especially important for LTP.  The AMPA receptor is paired with an ion channel so that when glutamate binds to this receptor, this channel lets sodium ions enter the post-synaptic neuron. This influx of sodium causes the post-synaptic dendrite to become locally depolarized, and if this depolarization reaches the critical threshold to trigger an action potential, the nerve impulse is transmitted to the next neuron.  The NMDA receptor is also paired with an ion channel, but this channel admits calcium ions into the post-synaptic cell. When this cell is at resting potential, the calcium channel is blocked by magnesium ions (Mg2+), so that even if glutamate binds to the receptor, calcium cannot enter the neuron. For these magnesium ions to withdraw from the channel, the dendrite’s membrane potential must be depolarized.           After Nicoll, Malenka and Kauer, 1988.  And that is exactly what happens during the high-frequency stimulation that causes LTP: the post-synaptic neuron becomes depolarized following the sustained activation of its AMPA receptors! The magnesium then withdraws from the NMDA receptors and allows large numbers of calcium ions to enter the cell.  This increased concentration of calcium in the dendrite sets off several biochemical reactions that make this synapse more efficient for an extended period.  To let the calcium enter the cell, the NMDA receptor must be activated by glutamate and subjected to depolarization simultaneously. The necessity for these two simultaneous conditions gives this receptor associative properties. This lets it detect the coincidence of two events and makes it the key element in long-term potentiation.  But if this receptor is blocked with a drug, or if the gene involved in its construction is disabled, LTP cannot occur.</p>]]></description>
+            <title><![CDATA[LONG-TERM POTENTIATION]]></title>
+            <description><![CDATA[<article><h1>LONG-TERM POTENTIATION</h1><p>Even though the neurons of the hippocampus may seem like just a transit point in the establishment of long-term memory, they actually display a great deal of plasticity. This plasticity is manifested chiefly through the phenomenon of long-term potentiation (LTP), which was discovered in the hippocampus in 1973 but has subsequently been demonstrated in many regions of the cortex. The most interesting characteristic of LTP is that it can cause the long-term strengthening of the synapses between two neurons that are activated simultaneously. </p></article>]]></description>
             <link>https://thegrid.ai/cbrains/long-term-potentiation-even-though-the-neurons-of-the-hip/index.html</link>
             <guid isPermaLink="false">bdd5d4f0-f8e3-4082-9fc7-04402dc7f717</guid>
+            <pubDate>Thu, 04 Aug 2016 18:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE BRAIN FROM TOP TO BOTTOM]]></title>
+            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>Long-term depression ( LTD) is a phenomenon that is the opposite of long-term potentiation (LTP). In LTD, communication across the synapse is silenced. LTD plays an important role in the cerebellum, in implicit procedural memory, where the neural networks involved in erroneous movements are inhibited by the silencing of their synaptic connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a605fc69a964da509628903954ba43a8529a58d3.jpg"></article>]]></description>
+            <link>http://thebrain.mcgill.ca/flash/i/i_07/i_07_m/i_07_m_tra/i_07_m_tra.html</link>
+            <guid isPermaLink="false">0ce88fb0-2238-4abd-ac6a-59b94f970019</guid>
             <pubDate>Sun, 06 Dec 2015 21:23:26 GMT</pubDate>
         </item>
         <item>
@@ -29,21 +29,21 @@
         </item>
         <item>
             <title><![CDATA[Donald O. Hebb - Wikipedia, the free encyclopedia]]></title>
-            <description><![CDATA[<article><h1>Donald O. Hebb - Wikipedia, the free encyclopedia</h1><p>Donald Olding Hebb FRS (July 22, 1904 - August 20, 1985) was a Canadian psychologist who was influential in the area of neuropsychology, where he sought to understand how the function of neurons contributed to psychological processes such as learning.</p><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Donald_Hebb.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Donald O. Hebb - Wikipedia, the free encyclopedia</h1><p>Donald Olding Hebb FRS (July 22, 1904 - August 20, 1985) was a Canadian psychologist who was influential in the area of neuropsychology, where he sought to understand how the function of neurons contributed to psychological processes such as learning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6538c0828f9c7ee199e6e9ca3205471e05d823d.gif"></article>]]></description>
             <link>https://en.wikipedia.org/wiki/Donald_O._Hebb</link>
             <guid isPermaLink="false">06402959-c186-482b-b71b-9834ae11232b</guid>
             <pubDate>Sun, 06 Dec 2015 21:19:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE BRAIN FROM TOP TO BOTTOM]]></title>
-            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>"I have it at the tip of my tongue!" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons (nerve cells) of the brain can be compared with the paths through a forest.</p><img src="http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra_1a.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>"I have it at the tip of my tongue!" Oligomers Help Us Keep Our Memories Glial Cells Too Are Sensitive to the Environment The Collective Intelligence of Human Groups The "Coming Out" of the Electrical Synapse The pathways along which information travels through the neurons (nerve cells) of the brain can be compared with the paths through a forest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47f757deeccc506209abbe604560672b9574dbb3.gif"></article>]]></description>
             <link>http://thebrain.mcgill.ca/flash/d/d_07/d_07_cl/d_07_cl_tra/d_07_cl_tra.html</link>
             <guid isPermaLink="false">f3f0a659-5785-4692-bfea-7b7f78faf1de</guid>
             <pubDate>Sun, 06 Dec 2015 21:18:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE BRAIN FROM TOP TO BOTTOM]]></title>
-            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>At the origin of every thought or action, there are the nerve impulses that travel through the body's neurons. These impulses are nothing more than the movement of electrically charged inorganic molecules through the neural membrane.</p><img src="http://thebrain.mcgill.ca/flash/i/i_01/i_01_m/i_01_m_fon/i_01_m_fon.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>THE BRAIN FROM TOP TO BOTTOM</h1><p>At the origin of every thought or action, there are the nerve impulses that travel through the body's neurons. These impulses are nothing more than the movement of electrically charged inorganic molecules through the neural membrane.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9946b57808a02fcc59f82db40dadfd17536a7a35.jpg"></article>]]></description>
             <link>http://thebrain.mcgill.ca/flash/i/i_01/i_01_m/i_01_m_fon/i_01_m_fon.html</link>
             <guid isPermaLink="false">3c9d2c4e-2765-4fe2-8deb-b93c514a434a</guid>
             <pubDate>Sun, 06 Dec 2015 21:18:15 GMT</pubDate>
