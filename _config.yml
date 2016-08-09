@@ -1,5 +1,4 @@
 typography_spectrum: 0.8530879188328981
-style: the-composer
 color:
   brandColors:
     - '#2C3E50'
@@ -25,5 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+style: the-composer
 favicon: null
-purpose: []
+purpose:
+  - id: 01cead2c-4ecb-490c-a504-306f320972b1
+    type: external
+    value: www.connectedbrains.com
+    label: CBrains
