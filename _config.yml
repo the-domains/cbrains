@@ -35,3 +35,6 @@ purpose:
   - type: contact
     url: 'mailto:carl@connectedbrains.com'
     label: Contact me
+  - type: contact
+    url: 'tel:1-418-222-3333'
+    label: Lets talk
