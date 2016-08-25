@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: LONG-TERM POTENTIATION
+    id: bdd5d4f0-f8e3-4082-9fc7-04402dc7f717
+    type: content
 favicon: null
 title: CBrains
 description: Some brain stuff
