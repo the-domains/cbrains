@@ -19,10 +19,13 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: cbrains
+name: cbrains2
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-purpose: []
+purpose:
+  - type: internal
+    label: Long Term
+    item: bdd5d4f0-f8e3-4082-9fc7-04402dc7f717
