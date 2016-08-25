@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-04T18:38:57.830Z'
+datePublished: '2016-08-25T04:38:51.779Z'
 sourcePath: _posts/2015-12-06-long-term-potentiation-even-though-the-neurons-of-the-hip.md
 author: []
-dateModified: '2016-08-04T18:38:57.544Z'
+dateModified: '2016-08-25T04:38:51.261Z'
 title: LONG-TERM POTENTIATION
 publisher:
   domain: thebrain.mcgill.ca
@@ -17,10 +17,8 @@ description: >-
   strengthening of the synapses between two neurons that are activated
   simultaneously. 
 via: {}
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: long-term-potentiation-even-though-the-neurons-of-the-hip/index.html
 _context: 'http://schema.org'
 _type: Article
