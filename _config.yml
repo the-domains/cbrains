@@ -25,6 +25,7 @@ cta:
   bucket: null
   version: null
 favicon: null
+title: CBrains
 purpose:
   - type: internal
     label: Long Term
